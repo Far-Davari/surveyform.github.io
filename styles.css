@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  font-family: roboto;
+  background-color: rgb(45 120 95);
+  max-width: 500px;
+  min-width: 300px;
+  margin: auto
+}
+label {
+  display: block;
+  text-align: left
+}
+input {
+  padding: 5 100 5 100;
+}
